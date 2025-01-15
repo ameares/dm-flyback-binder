@@ -3,13 +3,13 @@ A binder for designing discontinuous mode flyback transformers.
 
 # Python environment with a requirements.txt
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/requirements/HEAD)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ameares/dm-flyback-binder.git/HEAD?labpath=dm-flyback.ipynb)
 
 A Binder-compatible repo with a `requirements.txt` file.
 
 Access this Binder at the following URL
 
-http://mybinder.org/v2/gh/binder-examples/requirements/HEAD
+https://mybinder.org/v2/gh/ameares/dm-flyback-binder.git/HEAD?labpath=dm-flyback.ipynb
 
 ## Notes
 The `requirements.txt` file should list all Python libraries that your notebooks
